@@ -1,4 +1,4 @@
-(defproject cr8/grab-bag "0.1.0-SNAPSHOT"
+(defproject apage43/grab-bag "0.1.0-SNAPSHOT"
   :description "things that are useful enough not to die on other projects"
   :url "http://github.com/apage43/grab-bag"
   :license {:name "Eclipse Public License"
